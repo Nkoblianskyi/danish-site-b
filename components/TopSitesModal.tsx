@@ -15,7 +15,7 @@ export default function TopSitesModal() {
       const timer = setTimeout(() => {
         setIsOpen(true)
         localStorage.setItem("modal-seen", "true")
-      }, 3000)
+      }, 8000)
       return () => clearTimeout(timer)
     }
   }, [])

@@ -29,7 +29,7 @@ export const bettingSites: BettingSite[] = [
   {
     position: 2,
     name: "ComeOn",
-    logo: "/comeon.png",
+    logo: "/cameon.png",
     slogan: "ComeOn er en af Danmarks mest populære betting sider med et stort udvalg af sportsgrene og konkurrencedygtige odds.",
     rating: 4.9,
     reviews: 53283,

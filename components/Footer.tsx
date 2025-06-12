@@ -76,7 +76,7 @@ export default function Footer() {
                 <img src="/stopsillet.svg" alt="StopSpillet" className="h-12" />
               </a>
               <a
-                href="https://www.rofus.dk/"
+                href="https://www.rofus.nu/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:opacity-80 transition-opacity rounded-lg p-2 flex items-center justify-center"
